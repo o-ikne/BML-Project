@@ -3,7 +3,7 @@
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=o-ikne.Bayesian-Machine-Learning-Project)
 
-# **Bayesian-Machine-Learning-Project**
+# **Bayesian Machine Learning Project**
 
 ### **1. Overview**
 This [project](https://github.com/rbardenet/bml-course/blob/m2-lille/projects/papers.pdf) is part of the lecture on *Bayesian Machine Learning* tought by [Rémi BARDENET](https://rbardenet.github.io/). The idea is to pick a paper from a list of given papers, and read it with a critical mind. For instance, we will:
