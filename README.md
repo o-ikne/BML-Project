@@ -7,7 +7,7 @@
 # **Bayesian-Machine-Learning-Project**
 
 ### **1. Overview**
-This [project](https://github.com/rbardenet/bml-course/blob/m2-lille/projects/papers.pdf) is part of the lecture on *Bayesian Machine Learning* tought by [RÉMI BARDENET](https://rbardenet.github.io/). The idea is to pick a paper from a list of given papers, and read it with a critical mind. For instance, we will:
+This [project](https://github.com/rbardenet/bml-course/blob/m2-lille/projects/papers.pdf) is part of the lecture on *Bayesian Machine Learning* tought by [Rémi BARDENET](https://rbardenet.github.io/). The idea is to pick a paper from a list of given papers, and read it with a critical mind. For instance, we will:
 - (1) explain the contents of the paper
 - (2) emphasize the strong and weak points of the paper
 - (3) apply it to real data of our choice when applicable.
