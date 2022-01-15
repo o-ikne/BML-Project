@@ -3,7 +3,7 @@
 [![Generic badge](https://img.shields.io/badge/Made_With-Python-<COLOR>.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Library-pymc-red.svg)](https://shields.io/)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=o-ikne.Database-Project-Building-an-XML-database)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=o-ikne.Bayesian-Machine-Learning-Project)
 
 
 # **Bayesian-Machine-Learning-Project**
@@ -20,7 +20,7 @@ This project is done by Zakaria Boulkhir \& me. For more insights check out our 
 M. Welling and Y. W. Teh. Bayesian learning via stochastic gradient Langevin
 dynamics. In Proceedings of the 28th international conference on machine learning
 (ICML-11), pages 681–688, 2011. 
-[link](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)
+([link](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf))
 
 ### **3. Data**
 The data for this project is
