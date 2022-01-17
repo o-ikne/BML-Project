@@ -18,6 +18,16 @@ M. Welling and Y. W. Teh. Bayesian learning via stochastic gradient Langevin
 dynamics. In Proceedings of the 28th international conference on machine learning
 (ICML-11), pages 681–688, 2011. 
 ([link](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf))
+```
+@inproceedings{welling2011bayesian,
+  title={Bayesian learning via stochastic gradient Langevin dynamics},
+  author={Welling, Max and Teh, Yee W},
+  booktitle={Proceedings of the 28th international conference on machine learning (ICML-11)},
+  pages={681--688},
+  year={2011},
+  organization={Citeseer}
+}
+```
 
 ### **3. Data**
 The data for this project is
