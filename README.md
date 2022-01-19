@@ -32,7 +32,9 @@ dynamics. In Proceedings of the 28th international conference on machine learnin
 ### **3. Data**
 The data for this project is
 
-### **4. Installation**
+### **4. Implementation**
+
+### **5. Installation**
 
 To try our implementation in your own machine you need to install the following requirements:
 
