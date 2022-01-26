@@ -1,5 +1,5 @@
 [![Generic badge](https://img.shields.io/badge/Made_With-Python-<COLOR>.svg)](https://shields.io/)
-[![Generic badge](https://img.shields.io/badge/Library-pymc-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Library-SGLD-red.svg)](https://shields.io/)
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=o-ikne.BML-Project)
 
