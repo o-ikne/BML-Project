@@ -38,10 +38,17 @@ During this project, we worked with both artificial and real data. For the Mixtu
 
 ### **Mixture of Gaussians**
 To show that our method works well, we start by applying it on a very basic and simple example with two parameters. This first example is the mixture of Gaussians.
+```
+python mixture_of_gaussians.py
+```
+![Mixture of Gaussians](../images/mixture_of_gaussians.png)
 
 ### **Logistic Regression**
 For this second example, we apply stochastic gradient Langevin algorithm to a Bayesian logistic regression model.
 We will be using the data from the *UCI* dataset, more specificaly, the *a9a* dataset which consists of 32561 observations and 123 features.
+```
+python logistic_regression.py
+```
 
 ### **Independent Components Analysis**
 The last experiment concerns ICA algorithm based on stochastic (natural) gradient optimization (Amari et al., 1996).
