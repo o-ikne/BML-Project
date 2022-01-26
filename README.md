@@ -41,7 +41,7 @@ To show that our method works well, we start by applying it on a very basic and 
 ```
 python mixture_of_gaussians.py
 ```
-![Mixture of Gaussians](../images/mixture_of_gaussians.png)
+![Mixture of Gaussians](images/mixture_of_gaussians.png)
 
 ### **Logistic Regression**
 For this second example, we apply stochastic gradient Langevin algorithm to a Bayesian logistic regression model.
