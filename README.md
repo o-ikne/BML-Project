@@ -5,7 +5,7 @@
 
 # **Bayesian Machine Learning Project**
 
-### **1. Overview**
+## **1. Overview**
 This [project](https://github.com/rbardenet/bml-course/blob/m2-lille/projects/papers.pdf) is part of the lecture on *Bayesian Machine Learning* tought by [Rémi BARDENET](https://rbardenet.github.io/). The idea is to pick a paper from a list of given papers, and read it with a critical mind. For instance, we will:
 - (1) explain the contents of the paper
 - (2) emphasize the strong and weak points of the paper
@@ -13,7 +13,7 @@ This [project](https://github.com/rbardenet/bml-course/blob/m2-lille/projects/pa
 
 This project is done by Zakaria Boulkhir \& me. For more insights check out our report.
 
-### **2. Article**
+## **2. Article**
 M. Welling and Y. W. Teh. Bayesian learning via stochastic gradient Langevin
 dynamics. In Proceedings of the 28th international conference on machine learning
 (ICML-11), pages 681–688, 2011. 
@@ -29,18 +29,18 @@ dynamics. In Proceedings of the 28th international conference on machine learnin
 }
 ```
 
-### **3. Data**
+## **3. Data**
 The data for this project is
 
-### **4. Experiments**
+## **4. Experiments**
 
-#### **Mixture of Gaussians**
+### **Mixture of Gaussians**
 
-#### **Logistic Regression**
+### **Logistic Regression**
 
-#### **Independent Components Analysis**
+### **Independent Components Analysis**
 
-### **5. Installation**
+## **5. Installation**
 
 To try our implementation in your own machine you need to install the following requirements:
 
