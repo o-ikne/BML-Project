@@ -32,15 +32,19 @@ dynamics. In Proceedings of the 28th international conference on machine learnin
 >[paper](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)
 
 ## **3. Data**
-The data for this project is
+During this project, we worked with both artificial and real data. For the Mixture of Gaussians we will generate a number of samples we will be working with. For the *Logistic Regression* experiment, we will use the [*a9a*](https://www.openml.org/d/1430) dataset from the UCI *adult* dataset. Finally for the *ICA* experiments, we will use both a synthetic and real data.
 
 ## **4. Experiments**
 
 ### **Mixture of Gaussians**
+To show that our method works well, we start by applying it on a very basic and simple example with two parameters. This first example is the mixture of Gaussians.
 
 ### **Logistic Regression**
+For this second example, we apply stochastic gradient Langevin algorithm to a Bayesian logistic regression model.
+We will be using the data from the *UCI* dataset, more specificaly, the *a9a* dataset which consists of 32561 observations and 123 features.
 
 ### **Independent Components Analysis**
+The last experiment concerns ICA algorithm based on stochastic (natural) gradient optimization (Amari et al., 1996).
 
 ## **5. Installation**
 
