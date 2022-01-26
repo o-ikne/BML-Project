@@ -32,7 +32,13 @@ dynamics. In Proceedings of the 28th international conference on machine learnin
 ### **3. Data**
 The data for this project is
 
-### **4. Implementation**
+### **4. Experiments**
+
+#### **Mixture of Gaussians**
+
+#### **Logistic Regression**
+
+#### **Independent Components Analysis**
 
 ### **5. Installation**
 
