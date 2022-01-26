@@ -17,7 +17,7 @@ This project is done by Zakaria Boulkhir \& me. For more insights check out our 
 M. Welling and Y. W. Teh. Bayesian learning via stochastic gradient Langevin
 dynamics. In Proceedings of the 28th international conference on machine learning
 (ICML-11), pages 681–688, 2011. 
-([link](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf))
+
 ```
 @inproceedings{welling2011bayesian,
   title={Bayesian learning via stochastic gradient Langevin dynamics},
@@ -28,6 +28,7 @@ dynamics. In Proceedings of the 28th international conference on machine learnin
   organization={Citeseer}
 }
 ```
+>[paper](http://people.ee.duke.edu/~lcarin/398_icmlpaper.pdf)
 
 ## **3. Data**
 The data for this project is
