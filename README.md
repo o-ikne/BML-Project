@@ -11,7 +11,8 @@ This [project](https://github.com/rbardenet/bml-course/blob/m2-lille/projects/pa
 - (2) emphasize the strong and weak points of the paper
 - (3) apply it to real data of our choice when applicable.
 
-This project is done by Zakaria Boulkhir \& me. For more insights check out our report.
+This repository contains our Python implementation for this project.
+>This project is done by Zakaria Boulkhir \& me. For more insights check out our report.
 
 ## **2. Article**
 M. Welling and Y. W. Teh. Bayesian learning via stochastic gradient Langevin
