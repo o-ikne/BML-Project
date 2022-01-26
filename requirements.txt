@@ -1,6 +1,5 @@
 numpy
 pandas
-pymc
 os
 matplotlib
 seaborn
